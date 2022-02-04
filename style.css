@@ -1,9 +1,16 @@
-img.person-1{
-    background-color: red;
-    width: 400px;
-    height: 500px;
+.section-cls-1{
+  background-image: url("images/pexels-photo-3454270.jpeg");
+  background-repeat: no-repeat;
+
 }
-p{
-    background-color: coral;
-    color: darkblue;
+.div-cls-1{
+
+ 
+
+height: 800px;
+}
+.div-cls-1 h1{
+  font-size: 200px;
+
+  
 }
