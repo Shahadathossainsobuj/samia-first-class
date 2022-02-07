@@ -1,16 +1,21 @@
 .section-cls-1{
   background-image: url("images/pexels-photo-3454270.jpeg");
   background-repeat: no-repeat;
-
+display: flex;
 }
 .div-cls-1{
-
- 
-
-height: 800px;
+  height: 900px;
+font-size: 50px;
 }
-.div-cls-1 h1{
-  font-size: 200px;
+.div-cls-2{
+font-size: 30px;
+}
+.a-cls-1{
+  text-decoration: none;
+  background-color: darkslategray;
+  padding: 10px 30px;
+  color: white;
+  border-radius: 7px;
 
   
 }
