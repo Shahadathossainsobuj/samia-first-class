@@ -10,6 +10,7 @@ padding-top: 50px;
 }
 .div-cls-1-1{
   border-left: 6px solid orange;
+  padding-left: 20px;
 }
 .div-cls-1 h1{
   font-size: 60px;
@@ -24,7 +25,7 @@ padding-top: 50px;
   font-size: 20px;
   font-weight:bolder;
   padding: 10px 35px;
-  border-radius: 7px;
+  border-radius: 6px;
 }
 .div-cls-1 p{
   font-size: 20px;
@@ -40,43 +41,60 @@ justify-content: center;
 }
 .section-cls-2{
   display: flex;
-padding: 10px 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+
 }
 .section-cls-3{
-padding:90px 90px;
-font-size: small;
+  padding-right: 50px;
+ 
+  border-radius: 10px;
 }
 .div-cls-4{
-  border-radius: 7px;
   background-color: rgba(127, 255, 212, 0.404);
-  padding-left: 30px;
-  padding-bottom: 50px;
+  padding: 10px 40px;
+  border-radius: 20px;
+  
+}
+.div-cls-4 img{
+  width: 150px;
 }
 
 .section-cls-4{
-  padding:90px 90px; 
-  font-size: small;
+padding-right: 50px;
+  
 }
 .div-cls-5{
   background-color: rgba(255, 127, 80, 0.486);
-  padding-left: 30px;
-  padding-bottom: 50px;
+  padding: 10px 40px;
+  border-radius: 20px;
 }
-
+.div-cls-5 img{
+  width: 150px;
+}
 .section-cls-5{
-  padding:90px 90px;
+ 
 }
 .div-cls-6{
  background-color: rgba(0, 0, 255, 0.301);
- padding-left: 30px; 
- padding-bottom: 50px;
+ padding: 10px 40px;
+ border-radius: 20px;
  
+}
+.div-cls-6 img{
+  width: 150px;
 }
 .section-cls-6{
   display: flex;
 }
-.div-cls-7{
+.div-cls-7 img{
+  width: 700px;
+}
+.div-cls-8{
   font-size: 25px;
+  padding-top:50px;
+  
 }
 
 .a-cls-2{
@@ -87,4 +105,36 @@ font-size: small;
   color: black;
   font-size: 20px;
   font-weight:bolder;
+}
+.section-cls-7{
+  display: flex;
+  padding-left: 10px;
+  padding-top: 40px;
+  padding-right: 10px;
+  padding-bottom:200px;
+}
+.div-cls-9{
+  font-size: 25px;
+}
+.div-cls-10 img{
+  width: 650px;
+  border-radius: 20px;
+ 
+}
+.a-cls-3{
+  text-decoration: none;
+  background-color: rgba(137, 43, 226, 0.63);
+  padding: 10px 40px;
+  border-radius: 6px;
+  color:black;
+  font-weight: bolder;
+}
+
+.div-cls-11 {
+  color: white;
+  background-color: black;
+  text-align: center;
+  padding-bottom: 50px; 
+  padding-top: 50px;
+
 }
