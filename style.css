@@ -1,21 +1,90 @@
 .section-cls-1{
-  background-image: url("images/pexels-photo-3454270.jpeg");
-  background-repeat: no-repeat;
-display: flex;
+  display: flex;
 }
 .div-cls-1{
-  height: 900px;
-font-size: 50px;
+font-size: 25px;
+padding-left: 80px;
+padding-right: 90px;
+padding-top: 50px;
+
 }
-.div-cls-2{
-font-size: 30px;
+.div-cls-1-1{
+  border-left: 6px solid orange;
+}
+.div-cls-1 h1{
+  font-size: 60px;
+}
+.span-cls-1{
+  color: rgb(127, 193, 255);
 }
 .a-cls-1{
   text-decoration: none;
-  background-color: darkslategray;
-  padding: 10px 30px;
-  color: white;
+  color: black;
+  background-color: rgb(127, 168, 255);
+  font-size: 20px;
+  font-weight:bolder;
+  padding: 10px 35px;
   border-radius: 7px;
+}
+.div-cls-1 p{
+  font-size: 20px;
+}
+.div-cls-3{
+font-size: 25px;
 
-  
+display: flex;
+justify-content: center;
+}
+.span-cls-2{
+  color: rgb(127, 193, 255);
+}
+.section-cls-2{
+  display: flex;
+padding: 10px 50px;
+}
+.section-cls-3{
+padding:90px 90px;
+font-size: small;
+}
+.div-cls-4{
+  border-radius: 7px;
+  background-color: rgba(127, 255, 212, 0.404);
+  padding-left: 30px;
+  padding-bottom: 50px;
+}
+
+.section-cls-4{
+  padding:90px 90px; 
+  font-size: small;
+}
+.div-cls-5{
+  background-color: rgba(255, 127, 80, 0.486);
+  padding-left: 30px;
+  padding-bottom: 50px;
+}
+
+.section-cls-5{
+  padding:90px 90px;
+}
+.div-cls-6{
+ background-color: rgba(0, 0, 255, 0.301);
+ padding-left: 30px; 
+ padding-bottom: 50px;
+ 
+}
+.section-cls-6{
+  display: flex;
+}
+.div-cls-7{
+  font-size: 25px;
+}
+
+.a-cls-2{
+  text-decoration: none;
+  background-color: rgba(0, 255, 255, 0.548);
+  padding: 10px 40px;
+  border-radius: 5px;
+  color: black;
+  font-size: 20px;
+  font-weight:bolder;
 }
